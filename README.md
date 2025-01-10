@@ -4,7 +4,7 @@ as a 
 </h1>
 <br/>  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bioinformatics+Scientist;Computational+Biologist;Data+Engineer;Precision+Medicine+Advocate;ML+|AI+Evangelist;New+Tech+Enthusiast;Photographer+|+Collector;Son+|+Husband+|+Father&center=true&width=380&height=45)"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bioinformatics+Scientist;Computational+Biologist;Data+Engineer;Precision+Medicine+Advocate;ML+|+AI+Evangelist;New+Tech+Enthusiast;Photographer+|+Collector;Son+|+Husband+|+Father&center=true&width=380&height=45)"></a>
 </p>
 <hr/>
 <samp>
